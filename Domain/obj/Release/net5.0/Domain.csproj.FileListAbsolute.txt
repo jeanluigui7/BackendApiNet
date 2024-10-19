@@ -1,0 +1,15 @@
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\bin\Release\net5.0\Domain.deps.json
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\bin\Release\net5.0\Domain.dll
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\bin\Release\net5.0\Domain.pdb
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\bin\Release\net5.0\Model.dll
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\bin\Release\net5.0\Model.pdb
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\obj\Release\net5.0\Domain.csproj.AssemblyReference.cache
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\obj\Release\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\obj\Release\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\obj\Release\net5.0\Domain.AssemblyInfo.cs
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\obj\Release\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\obj\Release\net5.0\Domain.csproj.CopyComplete
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\obj\Release\net5.0\Domain.dll
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\obj\Release\net5.0\refint\Domain.dll
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\obj\Release\net5.0\Domain.pdb
+D:\Cursos BACK-END\Arquitectura backend\ServiceApi\Domain\obj\Release\net5.0\ref\Domain.dll
